@@ -1,3 +1,5 @@
 Hello je suis l'exercice 1
- 
+
 On va compter : 1 2 3 4 5
+
+Nous sommes le vendredi 27
